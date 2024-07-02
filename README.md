@@ -2,6 +2,7 @@
 
 ![Youtube Meditation Project](https://raw.githubusercontent.com/dkalenov/youtube-meditation-project/main/data/meditation_channel_dashboard.jpg)
 
+## Case
 The customer will launch her YouTube channel on meditation and yoga classes aimed at a Russian-speaking audience. The goal is to collect data about competitors on YouTube and establish global trends in this area.
 
 ## Tasks:
